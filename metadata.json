@@ -1,0 +1,6 @@
+{
+  "name": "Micro:Bit Robot Boss Rush",
+  "description": "Multiplayer arcade boss-rush game teaching BBC micro:bit physical computing and MicroPython programming through electrifying cartoon robot battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
